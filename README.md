@@ -64,6 +64,9 @@
 :heavy_check_mark: `模板方法模式( Template Method Pattern )`
 > :memo: [学习笔记](https://yubuntu0109.github.io/2019/09/04/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8BTemplate-Method-Pattern/) ，[示例程序](https://github.com/YUbuntu0109/design-patterns-in-java/tree/master/design-patterns/src/main/java/pers/huangyuhui/template_method_pattern)
 
+:heavy_check_mark: `观察者模式( Observer Pattern )`
+> :memo: [学习笔记](https://yubuntu0109.github.io/2019/09/28/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8BObserver-Pattern/) ，[示例程序](https://github.com/YUbuntu0109/design-patterns-in-java/tree/master/design-patterns/src/main/java/pers/huangyuhui/observer_pattern)
+
 :heavy_multiplication_x: `职责链模式( Chain of Responsibility Pattern )`
 > :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
 
@@ -74,9 +77,6 @@
 > :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
 
 :heavy_multiplication_x: `备忘录模式( Memento Pattern )`
-> :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
-
-:heavy_multiplication_x: `观察者模式( Observer Pattern )`
 > :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
 
 :heavy_multiplication_x: `状态模式( State Pattern )`
