@@ -67,13 +67,13 @@
 :heavy_check_mark: `观察者模式( Observer Pattern )`
 > :memo: [学习笔记](https://yubuntu0109.github.io/2019/09/28/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8BObserver-Pattern/) ，[示例程序](https://github.com/YUbuntu0109/design-patterns-in-java/tree/master/design-patterns/src/main/java/pers/huangyuhui/observer_pattern)
 
+:heavy_multiplication_x: `中介者模式( Mediator Pattern )`
+> :memo: [学习笔记](https://yubuntu0109.github.io/2019/10/10/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8BMediator-Pattern/) ，[示例程序](https://github.com/YUbuntu0109/design-patterns-in-java/tree/master/design-patterns/src/main/java/pers/huangyuhui/mediator_pattern)
+
 :heavy_multiplication_x: `职责链模式( Chain of Responsibility Pattern )`
 > :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
 
 :heavy_multiplication_x: `解释器模式( Interpreter Pattern )`
-> :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
-
-:heavy_multiplication_x: `中介者模式( Mediator Pattern )`
 > :memo: [学习笔记updating](demo) ，[示例程序updating](demo)
 
 :heavy_multiplication_x: `备忘录模式( Memento Pattern )`
